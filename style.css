@@ -1,0 +1,19 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  padding-top: 70px;
+}
+.name{
+  font-size: 80px;
+  color:#00838f;
+}
+
+.M1{ transform: translateX(-60%) rotate(25deg);
+}
+
+.product{
+  padding-top: 50px;
+}
+
+.photo{
+  padding-top: 50px;
+}
